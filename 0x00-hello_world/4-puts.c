@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - entry point
+ *main - Entry point
  *
- *return: always 0 (success)
+ *Description: 'texthere'
  *
+ *return: Always 0 (Success)
  */
 int main(void)
 {
